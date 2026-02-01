@@ -1,4 +1,4 @@
 # reveal-practice
 Minimal implementation of reveal.js for presentation slides written in Markdown. Example for use in introductory workshop.
 
-Sample slide deck at <https://jeremybuhler.github.io/reveal-practice/>
+Published presentation at <https://jeremybuhler.github.io/reveal-practice/>
